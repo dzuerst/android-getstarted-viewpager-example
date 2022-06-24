@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Get Started Layout</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="skip">Lewati</string>
+
+    <string name="title1">Buat Daftar Tugas Anda</string>
+    <string name="title2">Beri Hadiah</string>
+    <string name="title3">Beri hukuman</string>
+
+    <string name="description_onboarding_1">Here is an open-source project which shows sweet &amp; original onboarding ViewPagers that follows Material Design Guidelines</string>
+    <string name="description_onboarding_2">We use Lottie Animations on our Intro to make it interactive &amp; pleasant. Did you already tried it ? If no, let\'s start now. It\'s just awesome</string>
+    <string name="description_onboarding_3">Our mission is to make useful &amp; subtle apps. We love help people to save time with open-source stuffs, but we also make life easier by creating new things. Good Coding!</string>
+
+    <string name="start_text_advice">By continuing on this application you agree to our Terms of Use and Privacy Policy</string>
+
+    <string name="start">start</string>
+    <string name="finish">finish</string>
+    <string name="back">back</string>
+
+</resources>
